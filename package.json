@@ -1,0 +1,16 @@
+{
+  "name": "google_trends_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-trends-api": "^4.9.2",
+    "https-proxy-agent": "^7.0.4"
+  }
+}
